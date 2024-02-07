@@ -1,0 +1,50 @@
+cus1
+kia-sorento
+2
+160
+17/12/2023
+cus1
+ford-mustang-gt-premium
+3
+450
+12/02/2023
+cus2
+mercedes-amg-gt-4
+1
+100
+13/11/2024
+cus3
+honda-civic
+7
+350
+23/05/2023
+cus3
+Suzuki Mehran
+10
+100
+19/sept/2022
+cus3
+lamborghini-urus
+2
+300
+29/10/2023
+cus1
+honda-civic
+7
+350
+4
+cus3
+Honda City
+2
+60
+12/12/2022
+cus1
+Suzuki Mehran
+2
+20
+2ndjan
+cus1
+Suzuki Alto
+3
+30
+06/02/2024
